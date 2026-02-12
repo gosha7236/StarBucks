@@ -1,0 +1,31 @@
+.header_container
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 648.04px;
+    height: 41px;
+    margin: 48px 0 0 130px;
+    column-gap: 94px;
+}
+.text_container
+{
+    background: linear-gradient(90deg, #35C66B, #237249);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 800;
+    font-size: 37.6px;
+}
+.nav_items
+{
+    display: flex;
+    justify-content: space-between;
+    width: 354.04px;
+    height: 23px;
+    color: white;
+    list-style: none;
+    font-weight: 100;
+    font-size: 19.17px;
+    margin: 0;
+    padding: 0;
+}
