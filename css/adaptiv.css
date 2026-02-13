@@ -1,0 +1,183 @@
+@media (max-width: 450px) {
+  .header_container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 377.5px;
+    height: 41px;
+    margin: 34px 0 0 25px;
+  }
+  .text_container {
+    font-size: 22px;
+  }
+  .burger-menu {
+    display: block;
+    width: 42.5px;
+    height: 18.28px;
+  }
+  .nav_items {
+    display: none;
+  }
+  body {
+    width: 428px;
+    background-color: #121517;
+  }
+  .cup_container {
+    margin-top: 360px;
+    width: 271.22px;
+    height: 381px;
+    position: relative;
+    transform: translateY(120px);
+  }
+  .cup {
+    width: 300.22px;
+    height: 350px;
+  }
+  .ellipse2 {
+    position: absolute;
+    left: 50px;
+    top: 120px;
+    width: 253px;
+    height: 253px;
+  }
+  .vectors {
+    width: 430.45px;
+    height: 320.5px;
+    left: -40px;
+    top: 90px;
+    z-index: -200;
+  }
+  .discount {
+    width: 141px;
+    height: 141px;
+    left: 127px;
+    top: -15px;
+  }
+  .top_block {
+    width: 354.87px;
+    height: 677.14px;
+    align-items: center;
+    margin-left: 25px;
+    padding: 0;
+    display: flex;
+    flex-direction: column-reverse;
+  }
+  .info_container {
+    width: 354.87px;
+    height: 384.14px;
+  }
+  .new_cafe_block {
+    width: 335.71px;
+    height: 106px;
+    z-index: 100;
+  }
+  .text_cafe {
+    font-size: 48px;
+  }
+  .h1 {
+    font-size: 48px;
+  }
+  .container_text {
+    font-size: 48px;
+  }
+  .text_english {
+    font-size: 12px;
+    width: 345px;
+    height: 40px;
+    margin: 20px 0;
+  }
+  .button_container {
+    width: 346.94px;
+    height: 51px;
+    display: flex;
+    justify-content: space-between;
+  }
+  .select_button {
+    width: 223px;
+    height: 50px;
+    font-size: 16px;
+  }
+  .more_button {
+    width: 112.56px;
+    height: 50px;
+    font-size: 16px;
+  }
+  .one_line {
+    font-size: 41px;
+    margin: 0;
+  }
+  .plus {
+    font-size: 41px;
+    margin: 0;
+    padding-right: 37px;
+  }
+  .numbers_container {
+    width: 316.62px;
+    height: 79.92px;
+    margin: 36px 0 0 5px;
+    padding: 0;
+  }
+  .number {
+    width: 85px;
+    height: 80px;
+  }
+  .two_line {
+    width: 82px;
+    height: 34px;
+    margin: 0;
+  }
+  .second_block {
+    height: 602.81px;
+    width: 218.35px;
+    flex-direction: column;
+    border-radius: 26px;
+  }
+  .we_have {
+    left: 170px;
+    top: -48px;
+    width: 90.5px;
+    height: 90.4px;
+  }
+  .ellipse4 {
+    left: 150px;
+    top: -48px;
+    width: 180px;
+    height: 142px;
+  }
+   .ellipse5 {
+    left: -75px;
+    top: 485px;
+    width: 200px;
+    height: 180px;
+  }
+  .circle {
+    width: 86px;
+    height: 86px;
+  }
+  .title {
+    font-size: 18.57px;
+  }
+  .description {
+    font-size: 11.68px;
+    width: 104px;
+    margin-top: 0;
+  }
+  .heart {
+    left: 70px;
+    top: 5px;
+    width: 85.53px;
+    height: 107.54px;
+  }
+  .money {
+    width: 123.61px;
+    height: 89.95px;
+    left: 47px;
+    top: 405px;
+  }
+  .rocket {
+    width: 121.9px;
+    height: 118.17px;
+    left: 43px;
+    top: 197px;
+  }
+}
