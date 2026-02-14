@@ -131,7 +131,7 @@
     width: 218.35px;
     flex-direction: column;
     border-radius: 26px;
-    margin-left: 105px;
+    margin: 64px 0 69px 90px;
   }
   .we_have {
     left: 170px;
@@ -145,7 +145,7 @@
     width: 180px;
     height: 142px;
   }
-   .ellipse5 {
+  .ellipse5 {
     left: -75px;
     top: 485px;
     width: 200px;
@@ -180,5 +180,44 @@
     height: 118.17px;
     left: 43px;
     top: 197px;
+  }
+  .third_block {
+    height: 702px;
+    width: 349px;
+    flex-direction: column;
+    margin-left: 23px;
+  }
+  .cafe_block {
+    height: 253px;
+    width: 349px;
+    position: relative;
+  }
+  .cafe {
+    height: 260.08px;
+    width: 183.21px;
+  }
+  .shadow {
+    height: 220.08px;
+    width: 153.21px;
+    left: 7px;
+    top: 23px;
+  }
+  .vectors2 {
+    top: -35px;
+    left: -5px;
+    position: absolute;
+    width: 490px;
+    height: 390px;
+    transform: scaleX(-1);
+    z-index: -200;
+  }
+  .bar_block {
+    position: static;
+  }
+  .we_have2 {
+    left: 240px;
+    top: 75px;
+    width: 92px;
+    height: 92px;
   }
 }
